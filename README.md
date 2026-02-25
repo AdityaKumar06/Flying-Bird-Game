@@ -41,7 +41,7 @@ The game will open in your browser. Fly the bird and enjoy!
 
 | Gameplay 1 | Gameplay 2 |
 |------------|------------|
-| ![FlyingBird1](https://github.com/AdityaKumar06/Flying-Bird-Game/issues/new) | ![FlyingBird2](https://github.com/user-attachments/assets/d166594a-b83f-4d03-bc96-052a42ca4407) |
+| ![FlyingBird1](https://github.com/user-attachments/assets/96c2d598-e303-4479-b112-509a85ce7872) | ![FlyingBird2](https://github.com/user-attachments/assets/d166594a-b83f-4d03-bc96-052a42ca4407) |
 
 | Gameplay 3 |
 |------------|
